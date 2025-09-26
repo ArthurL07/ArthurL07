@@ -1,4 +1,4 @@
-# ArthurL07-ArthurL07
+# Arthur Lucas
 <h2 align="left">Systems Analysis and Development Student | Focus on Back-End | Digital Boarding Student | Java | Web Development & REST APIs</h2>
 
 ###
